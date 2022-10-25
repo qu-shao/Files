@@ -1,1 +1,1 @@
-Maven构建，JDK版本11
+Maven构建，JDK版本11，其中对于每个RabbitMQ的连接和设置均需要根据自己服务器情况修改对应的参数（Host，User，Password）
